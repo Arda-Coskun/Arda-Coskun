@@ -1,5 +1,5 @@
 # ℹ️ About Me:
-🔭 I’m currently working on Web Site, Swift<br>🤝 I’m looking for help with JavaScript, Swift<br>🌱 I’m currently learning JavaScript, Swift<br>💬 Ask me about Python, Java
+🔭 I’m currently working on HTML, CSS, JavaScript, Swift<br>🤝 I’m looking for help with JavaScript, Swift<br>🌱 I’m currently learning JavaScript, Swift<br>💬 Ask me about Python, Java
 
 
 ## 🌐 Socials:
